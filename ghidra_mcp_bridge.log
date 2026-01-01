@@ -1,0 +1,2 @@
+2026-01-01 20:31:55,125 - mcp.server.lowlevel.server - INFO - Processing request of type ListPromptsRequest
+2026-01-01 20:31:55,127 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
