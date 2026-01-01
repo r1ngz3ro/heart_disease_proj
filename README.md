@@ -20,7 +20,7 @@ Key differences:
 The choice to use the processed version was made to focus on analysis and modeling rather than data extraction, following standard practice in academic settings. Despite being processed, the dataset still contains missing values and requires preprocessing steps such as imputation, scaling, and target variable engineering.
 
 ## Project Structure
-- `heart_disease_analysis.py`: Main Jupyter Notebook-style Python script containing the complete analysis
+- `heart_disease_analysis.ipynb`: Main Jupyter Notebook containing the complete analysis
 - `process_data.py`: Script explaining the data processing steps from original to processed format
 - `processed.cleveland.data`: The processed Cleveland heart disease dataset
 - `heart-disease.names`: Documentation file describing the dataset attributes
